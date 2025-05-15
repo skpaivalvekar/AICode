@@ -1,0 +1,13 @@
+python-dotenv
+requests
+torch
+transformers
+tqdm
+openai
+gradio
+langchain
+tiktoken
+faiss-cpu
+langchain-openai
+langchain_experimental
+langchain_chroma
