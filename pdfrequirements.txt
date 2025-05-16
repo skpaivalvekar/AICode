@@ -1,0 +1,11 @@
+python-dotenv
+pypdf
+phidata
+sqlalchemy
+pgvector
+psycopg[binary]
+google-generativeai
+yfinance
+crawl4ai
+playwright
+firecrawl-py
