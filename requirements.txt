@@ -1,0 +1,16 @@
+python-dotenv
+requests
+torch
+transformers
+tqdm
+openai
+gradio
+langchain
+tiktoken
+faiss-cpu
+langchain-openai
+langchain_experimental
+google-genai
+google-generativeai
+beautifulsoup4
+IPython
