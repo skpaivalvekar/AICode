@@ -2,4 +2,17 @@ autogen-agentchat===0.5.7
 autogen-ext[openai]
 dotenv
 autogen-core
+python-dotenv
+requests
+torch
+transformers
+tqdm
+openai
+gradio
+langchain
+tiktoken
+faiss-cpu
+langchain-openai
+langchain_experimental
+langchain_chroma
 pydantic
